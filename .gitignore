@@ -1,0 +1,3 @@
+.env
+node_modules/
+#la carpeta node_modules es un ejemplo
